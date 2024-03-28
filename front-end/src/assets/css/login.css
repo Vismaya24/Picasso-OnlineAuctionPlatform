@@ -1,0 +1,120 @@
+/* .login-box{
+     width: 550px;
+     height: 739px;
+     background-color: rgb(255, 255, 255);
+     margin-left: 45px;
+}
+.flex{
+     display: flex;
+     justify-content: center;
+}
+.login-text{
+     font-family: 'Open Sans', sans-serif;
+     font-size: 20px;
+}
+.login-text1{
+     font-family: 'Josefin Sans';
+     font-size: 50px;
+     text-align: center;
+     margin-top: 40px;
+}
+.login-text2{
+     margin-top: 5px;
+     font-family: 'Inter';
+     font-size: 17px;
+     color: rgb(89, 89, 89);
+     text-align: center;
+}
+.login-text3{
+     margin-top: 40px;
+     font-family: 'Inter';
+     font-size: 35px;
+     color: rgb(25, 25, 25);
+     text-align: center;
+}
+.login-input{
+     width: 325px;
+     height: 35px;
+     background: transparent;
+     border-bottom: 2px solid #000000;
+     border-top: 2px solid transparent;
+     border-right: 2px solid transparent;
+     border-left: 2px solid transparent;
+}
+.login-input:focus{
+     outline: none;
+}
+.login-input::placeholder{
+     color: black;
+     font-family: 'Inter';
+}
+.login-btn{
+     width: 250px;
+     margin-left: 45px;
+     height: 40px;
+     background-color: black;
+     color: white;
+     font-size: 15px;
+     font-family: 'Inter';
+     cursor: pointer;
+}
+.signup-box{
+     width: 550px;
+     height: 739px;
+     background-color: rgb(255, 255, 255);
+     margin-left: 65px;
+}
+.signup-bg{
+background: #BE93C5;  
+background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  
+background: linear-gradient(to right, #7BC6CC, #BE93C5); 
+height: 100vh;
+}
+.flex{
+     display: flex;
+     justify-content: center;
+}
+.signup-text{
+     font-family: 'Open Sans', sans-serif;
+     font-size: 20px;
+     margin-top: 10px;
+}
+.signup-input{
+     width: 325px;
+     height: 35px;
+     background: transparent;
+     border-color: black;
+     margin-top: 10px;
+     border-bottom: 2px solid #000000;
+     border-top: 2px solid transparent;
+     border-right: 2px solid transparent;
+     border-left: 2px solid transparent;
+}
+.signup-input::placeholder{
+     color: black;
+}
+.signup-input:focus{
+     outline: none;
+}
+.signup-button{
+     width: 250px;
+     margin-left: 45px;
+     height: 40px;
+     background: black;
+     color: white;
+     border-color: transparent;
+     cursor: pointer;
+     font-family: 'Inter';
+}
+.signup-button:hover{
+     color: rgb(0, 0, 0);
+     background-color: white;
+     border-color: black;
+     border-style: solid;
+}
+.icon{
+     transition: transform .5s ease;
+}
+.icon:hover{
+     transform: scale(1.15);
+} */

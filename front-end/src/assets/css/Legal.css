@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+.privacy-text1{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Inter';
+}
+.privacy-text2{
+    font-size: 20px;
+    font-family: 'Inter';
+    margin-left: 250px;
+    font-weight: 900;
+}
+.privacy-text3{
+    font-size: 17px;
+    font-family: 'Inter';
+    text-align: justify;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+.privacy-text4{
+    font-size: 17px;
+    font-family: 'Inter';
+    font-weight: 600;
+    text-align: justify;
+    color: rgb(62, 62, 62);
+    margin-left: 250px;
+    margin-right: 250px; 
+}
+.faq-question{
+    width: 1000px;
+    background-color: rgb(255, 255, 255);
+    font-size: 17px;
+    padding: 10px;
+    margin-left: 250px;
+    cursor: pointer;
+    margin-top: 15px;
+    border-width: 1px;
+    border-left: 0px solid transparent;
+    border-top: 0px solid transparent;
+    border-right: 0px solid transparent;
+    font-family: 'Inter';
+    color: rgb(0, 0, 0);
+    border-color: black;
+    border-style: solid;
+  }
+  .faq-question2{
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
+  .faq-answer{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    width: 1000px;
+    font-family: 'Inter';
+    text-align: justify;
+    border-left: 5px solid rgb(0, 0, 0);
+    line-height: 4vh;
+  }
+  .ans-text{
+    margin-left: 20px;
+  }
+  .fun-box{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+  }
+
+.style1 {
+    color: red;
+    font-size: 16px;
+  }
+  
+  .style2 {
+    color: blue;
+    font-size: 18px;
+  }
+
+
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .modal-content {
+    background-color: #fff;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  
+  .content{
+      width: 80%;
+      margin: 0 auto;
+  }
+
+  @media screen and (max-width: 768px){
+    .content{
+      width: 100%;
+    }
+  }
+  

@@ -1,0 +1,95 @@
+.sell-text1{
+    font-family: 'DM Sans';
+    font-size: 90px;
+    margin-left: 200px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+}
+.sell-text3{
+    font-family: 'DM Sans';
+    font-size: 90px;
+    margin-left: 200px;
+    color: rgb(0, 0, 0);
+    margin-top: 100px;
+}
+.sell-text2{
+    font-family: 'DM Sans';
+    font-size: 80px;
+    margin-left: 70px;
+    color: rgb(0, 0, 0);
+    margin-top: 35px;
+}
+.sell-input{
+    width: 325px;
+    height: 30px;
+    background: transparent;
+    border-bottom: 2px solid #000000;
+    border-top: 2px solid transparent;
+    border-right: 2px solid transparent;
+    border-left: 2px solid transparent;
+    justify-content: center;
+}
+.sell-input::placeholder{
+    color: rgb(0, 0, 0);
+    font-family: 'Inter';
+}
+.sell-btn{
+    margin-left: 650px;
+    margin-top: 30px;
+    cursor: pointer;
+    height: 45px;
+    width: 250px;
+    color: white;
+    font-family: 'Inter';
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    background-color: black;
+}
+.sell-box{
+    background-color: rgb(12, 12, 12);
+    height: 550px;
+    width: 100%;
+    display: inline-flex;
+}
+.sell-button{
+    height: 45px;
+    width: 200px;
+    border-color: rgb(0, 0, 0);
+    background: black;
+    border-style: solid;
+    color: white;
+    border-radius: 40px 40px 40px 40px;
+    margin-left: 70px;
+    cursor: pointer;
+}
+.sell-button2{
+    height: 45px;
+    width: 250px;
+    border-color: transparent;
+    background: white;
+    color: black;
+    border-radius: 40px 40px 40px 40px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.sell-box1{
+   height: 300px;
+   width: 450px;
+   margin-left: 20px;
+   line-height: 1.5;
+   font-family: 'Calibri';
+   font-size: 22px;
+}
+.sellart-text1{
+    font-family: 'Josefin Sans';
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+}
+.sellart-text2{
+    font-family: 'Inter';
+    font-size: 20px;
+    text-align: center;
+    color: rgb(58, 58, 58);
+    margin-top: 5px;
+}

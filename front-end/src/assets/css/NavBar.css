@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+.nav-bar{
+    height: 60px;
+    width: 1536px;
+    display: inline-flex;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    box-shadow: 0px 0px 1px 0px rgb(0, 0, 0);
+}
+.nav-text{
+    color: black;
+    font-family: 'Karla';
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.title-text{
+    font-family: 'Josefin Sans';
+    color: black;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 40px;
+    font-weight: 500;
+}
+.home-text{
+    font-family: 'Overpass';
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.active{
+    height: 4rem;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    transition: 0.2s linear;
+    z-index: 40;
+}
+.hidden{
+    height: 4rem;
+    width: 100%;
+    z-index: 40;
+    position: fixed;
+    top: -80px;
+    transition: 0.2s linear;
+}
+.active-link{
+     color: red;
+
+}
+.cart-length{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    margin-top: -35px;
+    margin-left: 20px;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    font-family: 'Calibri';
+    font-size: 15px;
+}
+
+/* tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

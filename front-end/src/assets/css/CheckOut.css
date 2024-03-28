@@ -1,0 +1,183 @@
+.checkout-box{
+    height: 715px;
+    width: 650px;
+    margin-left: 225px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 5px 0px rgb(188, 188, 188);
+    padding: 12px;
+}
+.summary-box{
+    padding: 30px;
+    line-height: 40px;
+    margin-left: 100px;
+    height: 300px;
+    margin-top: 50px;
+    width: 300px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 5px 0px rgb(188, 188, 188);
+}
+.background-color{
+    background-color: #ffffff;
+    /* background-color: #f3f3f3; */
+    /* background-color: white; */
+}
+.check-text1{
+    text-align: center;
+    color: black;
+    font-size: 45px;
+    font-family: 'Outfit';
+}
+.check-text2{
+    text-align: center;
+    color: rgb(144, 144, 144);
+    font-size: 25px;
+    font-family: 'Jost'
+}
+.check-text3{
+    font-size: 20px;
+}
+.check-input1{
+    height:  30px;
+    width: 182px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.check-input2{
+    height:  30px;
+    width: 400px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}
+.check-label{
+    font-size: 15px;
+    font-family: 'Outfit';
+}
+.check-text3{
+    font-family: 'Outfit';
+    font-size: 25px;
+}
+.check-btn{
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    border-color: transparent;
+    color: white;
+    margin-left: 110px;
+    font-family: 'Outfit';
+}
+.summary-text1{
+    font-size: 22px;
+    font-family: 'Outfit';
+}
+.summary-text2{
+    font-size: 17px;
+    font-family: 'Inter';
+    text-align: left;
+}
+.summary-text3{
+    font-size: 17px;
+    font-family: 'Outfit';
+    text-align: right;
+}
+.summary-text4{
+    font-family: 'Outfit';
+    font-size: 17px;
+    text-align: center;
+}
+.container1{
+    margin-left: 250px;
+    margin-top: 50px;
+    height: 350px;
+    width: 500px;
+    box-shadow: 0px 0px 1px 0px black;
+    padding: 10px 10px 50px 50px;
+}
+.checkout-text1{
+    margin-top: 25px;
+    font-size: 23px;
+    font-family: 'Inter';
+    font-weight: 400;
+}
+.checkout-text3{
+    font-size: 20px;
+    font-family: 'Inter';
+    font-weight: 400;
+}
+.checkout-text2{
+    font-size: 16px;
+    font-family: 'Inter';
+    line-height: 1.5;
+}
+.payment{
+    height: 40px;
+    width: 200px;
+    border-color: transparent;
+    color: white;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.check1{
+    font-family: 'Calibri';
+    font-size: 25px;
+    font-weight: 200;
+    margin-top: 30px;
+    margin-left: 250px;
+}
+.name-bar{
+    height: 60px;
+    width: 1536px;
+    display: inline-flex;
+    background-color: rgb(255, 255, 255);
+    top: 0;
+    box-shadow: 0px 0px 1px 0px rgb(0, 0, 0);
+}
+.summary-box2{
+    height: 350px;
+    width: 350px;
+    box-shadow: 0px 0px 1px 0px rgb(0, 0, 0);
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.confirm-box{
+    height: 350px;
+    width: 500px;
+    box-shadow: 0px 0px 2px 1px rgb(224, 224, 224);
+    margin-top: 180px;
+    margin-left: 500px;
+    line-height: 1.8;
+}
+.confirm1{
+    font-family: 'Inter';
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+}
+.confirm2{
+    font-family: 'Inter';
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+}
+.confirm-btn{
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border: transparent;
+    font-size: 14px;
+    font-family: 'Inter';
+    margin-top: 25px;
+    cursor: pointer;
+}
+.update-address{
+    height: 35px;
+    width: 150px;
+    color: white;
+    background-color: black;
+    border-color: transparent;
+}

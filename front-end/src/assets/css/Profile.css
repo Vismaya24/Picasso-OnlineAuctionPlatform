@@ -1,0 +1,128 @@
+.profile-text1{
+     font-family: 'Inter';
+     font-size: 40px;
+     margin-left: 650px;
+}
+.profile-box{
+    width: 300px;
+    background-color: transparent;
+}
+.profile-text2{
+    font-family: 'Inter';
+    font-size: 28px;
+}
+.profile-text3{
+    font-family: 'Inter';
+    font-size: 22px;
+    color: black;
+}
+.profile-text4{
+    font-family: 'Inter';
+    font-size: 17px;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: rgb(78, 78, 78);
+}
+.profile-text5{
+    font-family: 'Inter';
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+    display: inline-flex;
+    line-height: 2;
+    font-weight: 500;
+}
+.profile-text6{
+    font-family: 'Inter';
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+    display: inline-flex;
+    line-height: 2;
+}
+.profile-btn{
+    /* height: 40px;
+    width: 150px;
+    background-color: transparent;
+    border-color: black;
+    border-style: solid;
+    border-radius:  25px 25px 25px 25px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 50px;*/
+    cursor: pointer; 
+    background-color: transparent;
+    border-color: transparent;
+}
+.edit-btn{
+    height: 45px;
+    width: 150px;
+    /* background-color: #136a8a; */
+    background-color: black;
+    border-color: transparent;
+    border-radius: 25px 25px 25px 25px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Poppins';
+  }
+  .profile-label{
+    font-family: 'Inter';
+    font-size: 15px;
+    margin-left: 60px;
+    font-weight: 600;
+  }
+  .profile-input{
+    height: 35px;
+    width: 250px;
+    font-family: 'Inter';
+    font-size: 15px;
+    border-color: transparent;
+    box-shadow: 0px 0px 1px 0px rgb(0, 0, 0);
+    border-radius: 30px 30px 30px 30px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.profile-input2{
+    height: 35px;
+    margin-left: 60px;
+    width: 565px;
+    font-family: 'Inter';
+    font-size: 15px;
+    border-color: transparent;
+    box-shadow: 0px 0px 1px 0px rgb(0, 0, 0);
+    border-radius: 30px 30px 30px 30px;
+  }
+  .profile-button{
+    height: 45px;
+    width: 250px;
+    font-family: 'Inter';
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+    border-color: transparent;
+    cursor: pointer;
+    border-radius: 30px 30px 30px 30px;
+    margin-top: 20px;
+    margin-left: 220px;
+  }
+  .profile-logout{
+    background-color: black;
+    border-color: transparent;
+    height: 40px;
+    width: 150px;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 1310px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  .profile-edit{
+    background-color: black;
+    border-color: transparent;
+    height: 40px;
+    width: 150px;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 30px 30px 30px 30px;
+    margin-left: 150px;
+    cursor: pointer;
+    margin-top: 30px;
+  }

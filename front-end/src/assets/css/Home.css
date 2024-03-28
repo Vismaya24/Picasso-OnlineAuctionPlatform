@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Rosarivo&display=swap');
+.footer-box{
+     width: 1536px;
+     height: 300px;
+     background-color: black;
+}
+.font-style1{
+     font-family: 'Josefin Sans';
+     color: black;
+     font-size: 20px;
+     margin-top: 15px;
+     margin-left: 5px;
+     font-weight: 500;
+}
+.display{
+     display: inline-flex;
+     margin-top: 10px;
+}
+.font-style2{
+     /* font-family: 'Outfit'; */
+     font-family: 'Karla';
+     font-size: 40px;
+     color: rgba(0, 0, 0, 0.826);
+     text-align: justify;
+}
+.font-style3{
+     /* font-family: 'Outfit'; */
+     font-family: 'Karla';
+     font-size: 20px;
+     margin-top: 20px;
+     margin-left: 660px;
+}
+.button1{
+     width: 200px;
+     height: 50px;
+     background-color: black;
+     color: white;
+     font-family: 'Outfit';
+     border: none;
+     font-size: 15px;
+}
+.button1:hover{
+     background-color: transparent;
+     color: rgb(0, 0, 0);
+     border-color:  black;
+     border-style: solid;
+     border-width: 2.5px;
+}
+.button2{
+     width: 200px;
+     height: 50px;
+     background-color: transparent;
+     color: rgb(0, 0, 0);
+     border-color:  black;
+     font-family: 'Outfit';
+     border-style: solid;
+     border-width: 2.5px;
+     font-size: 15px;
+}
+.button2:hover{
+     background-color: black;
+     color: white;
+     border: none;
+}
+.font-style4{
+     font-family: 'Outfit';
+     font-size: 30px;
+}
+.buy-box{
+    width: 400px;
+    height: 400px;
+    background-color: transparent;
+    border-color: black;
+    border-style: solid;   
+    margin-left: 30px;
+}
+.buynow-display{
+     display: inline-flex;
+     margin-left: 90px;
+}
+.font-style5{
+     font-family: 'Inter';
+     font-size: 20px;
+     color: black;
+}
+.buynow-btn{
+    height: 45px;
+    width: 100px;
+    background-color: black;
+    border: none;
+    color: white;
+    border-radius: 30px 30px 30px 30px;
+    margin-left: 50px;
+}
+.home-box1{
+     font-size: 70px;
+     font-family: 'Josefin Sans';
+     height: 200px;
+     width: 400px;
+     border-color: black;
+     margin-left: 170px;
+     text-align: center;
+     margin-top: 100px;
+}
+.home-box2{
+     font-size: 17px;
+     margin-left: 10px;
+     font-family: 'Quicksand';
+     height: 300px;
+     width: 750px;
+     color: rgb(57, 57, 57);
+     text-align: justify;
+     line-height: 1.6;
+}
+.follow-box{
+     height: 100px;
+     font-size: 40px;
+     font-family: 'Josefin Sans';
+     color: white;
+     background-color: rgb(12, 12, 12);
+     padding-top: 55px;
+     margin-top: 100px
+}
+.gallery1{
+     font-family: 'Quicksand';
+     font-size: 35px;
+     margin-left: 157px;
+     margin-top: 80px;
+}
+.gallery2{
+     font-size: 19px;
+     font-family: 'Quicksand';
+}
+.gallery3{
+     font-size: 17px;
+     font-family: 'Quicksand';
+     color: rgb(79, 79, 79);
+}
+.gallery-box{
+     margin-top: 50px;
+     height: 410px;
+     width: 250px;
+     margin-left: 60px;
+}
+.home-box3{
+     background-color: rgba(255, 255, 255, 0.751);
+     height: 350px;
+     width: 900px;
+     margin-top: 120px;
+     margin-left: 330px;
+
+}

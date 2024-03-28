@@ -1,0 +1,108 @@
+.cart-box{
+    height: 200px;
+    width: 750px;
+    background-color: transparent;
+    margin-top: 15px;
+    box-shadow: 0px 1px 1px 0px rgb(201, 201, 201);
+    margin-left: 100px;
+    padding: 5px;
+}
+.proceed-box{
+    height: 350px;
+    width: 350px;
+    box-shadow: 0px 0px 1px 0px rgb(134, 134, 134);
+    margin-top: 73px;
+    margin-left: 100px;
+}
+.cart-text{
+    margin-left: 100px;
+    line-height: 1.5;
+}
+.proceed-text1{
+    font-family: 'Calibri';
+    text-align: center;
+    font-size: 23px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.proceed-text2{
+    text-align: left;
+    margin-left: 50px;
+    font-size: 18px;
+    font-family: 'Calibri';
+    font-weight: 500;
+}
+.proceed-text3{
+    text-align: right;
+    margin-top: -20px;
+    margin-right: 50px;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Calibri';
+}
+.proceed-btn{
+    height: 40px;
+    width: 255px;
+    margin-top: 26px;
+    background-color: black;
+    color: white;
+    margin-left: 47px;
+    border-color: transparent;
+    cursor: pointer;
+    font-family: 'Calibri';
+    font-size: 17px;
+}
+.cart-style1{
+    font-size: 22px;
+    font-family: 'Calibri';
+    font-weight: 500;
+}
+.cart-style2{
+    font-size: 20px;
+    font-family: "Calibri";
+    font-weight: 200;
+}
+.cart-style4{
+    font-size: 20px;
+    font-family: "Calibri";
+}
+.cart-style3{
+    font-family: 'Calibri';
+    color: rgb(116, 116, 116);
+    font-size: 17px;
+}
+.cart-style5{
+    font-family: 'Calibri';
+    font-size: 35px;
+    margin-left: 110px;
+}
+.cart-style6{
+    font-family: 'Calibri';
+    font-size: 18px;
+    color: rgb(119, 119, 119);
+    margin-left: 115px;
+    font-weight: 100;
+}
+.wishlist-box{
+    height: 350px;
+    width: 250px;
+    box-shadow: 0px 0px 1px 0px black;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.wish1{
+    font-family: 'Calibri';
+    font-size: 20px;
+    margin-left: 15px;
+}
+.wish2{
+    font-family: 'Calibri';
+    font-size: 17px;
+    margin-left: 15px;
+}
+.wish3{
+    font-family: 'Calibri';
+    font-size: 15px;
+    color: rgb(84, 84, 84);
+    margin-left: 15px;
+}

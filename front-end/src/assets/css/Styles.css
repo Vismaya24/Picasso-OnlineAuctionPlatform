@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@600&display=swap');
+.contactus-style{
+    font-size: 45px;
+    text-align: justify;
+    font-family: 'Jost';
+}
+.contactus-style2{
+    font-size: 17px;
+    text-align: left;
+    font-family: 'Inter';
+}
+.cbox1{
+    height: 500px; 
+    width: 450px;
+    background-color: transparent;
+    border-color: none;
+    margin-top: 70px;
+}
+.contact-input{
+    width: 400px;
+    height: 35px;
+    border-color: black;
+    border-style: solid;
+    background-color: transparent;
+    font-family: 'Inter';
+}
+.contact-input:focus,::placeholder{
+    outline: black;
+    color: black;
+    font-family: 'Inter';
+}
+.contact-btn{
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-family: 'Outfit';
+    border-color: black;
+    border-style: solid;
+    transition: transform .5s ease;
+}
+.contact-btn:hover{
+    transform: scale(1.01);
+}
+.textarea{
+    height: 90px;
+    width: 400px;
+    background-color: transparent;
+    border-color: black;
+    border-style: solid;
+    resize: none;
+    font-family: 'Inter';
+    border-width: 2px;
+}
+.textarea::placeholder,:focus{
+    font-family: 'Inter';
+    outline: black;
+}
+.time{
+    font-size: 17px;
+    font-family: 'Outfit';
+    margin-left: 1050px;
+}
+.error-text1{
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 730px;
+}
+.error-text2{
+    font-family: 'Inter';
+    font-size: 17px;
+    margin-left: 570px;
+}
+.error-button{
+    height: 45px;
+    width: 250px;
+    color: white;
+    background-color: black;
+    border-color: transparent;
+    margin-left: 645px;
+    font-family: 'Inter';
+    margin-top: 30px;
+    cursor: pointer;
+}
